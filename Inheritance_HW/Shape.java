@@ -1,8 +1,8 @@
 package Inheritance_HW;
 
 public class Shape {
-    private String color;
-    private boolean filled;
+    private String color = "Green";
+    private boolean filled = false;
 
     // constructors
 
@@ -13,7 +13,7 @@ public class Shape {
     }
 
     public Shape() {
-
+        
     }
 
 
